@@ -1,0 +1,9 @@
+C:\Users\muoi\source\repos\printer\printer\bin\x86\Releasex86\printer.dll
+C:\Users\muoi\source\repos\printer\printer\bin\x86\Releasex86\printer.pdb
+C:\Users\muoi\source\repos\printer\printer\bin\x86\Releasex86\printer.dll.CodeAnalysisLog.xml
+C:\Users\muoi\source\repos\printer\printer\bin\x86\Releasex86\printer.dll.lastcodeanalysissucceeded
+C:\Users\muoi\source\repos\printer\printer\bin\x86\Releasex86\PdfiumViewer.dll
+C:\Users\muoi\source\repos\printer\printer\obj\x86\Releasex86\printer.csproj.CoreCompileInputs.cache
+C:\Users\muoi\source\repos\printer\printer\obj\x86\Releasex86\printer.csproj.CopyComplete
+C:\Users\muoi\source\repos\printer\printer\obj\x86\Releasex86\printer.dll
+C:\Users\muoi\source\repos\printer\printer\obj\x86\Releasex86\printer.pdb

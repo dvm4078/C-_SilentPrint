@@ -1,0 +1,10 @@
+C:\Users\muoi\source\repos\printer\printer\bin\Release\printer.dll
+C:\Users\muoi\source\repos\printer\printer\bin\Release\printer.pdb
+C:\Users\muoi\source\repos\printer\printer\obj\Release\printer.csproj.CoreCompileInputs.cache
+C:\Users\muoi\source\repos\printer\printer\obj\Release\printer.dll
+C:\Users\muoi\source\repos\printer\printer\obj\Release\printer.pdb
+C:\Users\muoi\source\repos\printer\printer\bin\Release\printer.dll.CodeAnalysisLog.xml
+C:\Users\muoi\source\repos\printer\printer\bin\Release\printer.dll.lastcodeanalysissucceeded
+C:\Users\muoi\source\repos\printer\printer\obj\Release\printer.csproj.CopyComplete
+C:\Users\muoi\source\repos\printer\printer\bin\Release\PdfiumViewer.dll
+C:\Users\muoi\source\repos\printer\printer\obj\Release\printer.csprojAssemblyReference.cache

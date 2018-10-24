@@ -1,0 +1,7 @@
+C:\Users\muoi\source\repos\printer\testprinter\bin\Release\testprinter.exe.config
+C:\Users\muoi\source\repos\printer\testprinter\bin\Release\testprinter.exe
+C:\Users\muoi\source\repos\printer\testprinter\bin\Release\testprinter.pdb
+C:\Users\muoi\source\repos\printer\testprinter\obj\Release\testprinter.csprojAssemblyReference.cache
+C:\Users\muoi\source\repos\printer\testprinter\obj\Release\testprinter.csproj.CoreCompileInputs.cache
+C:\Users\muoi\source\repos\printer\testprinter\obj\Release\testprinter.exe
+C:\Users\muoi\source\repos\printer\testprinter\obj\Release\testprinter.pdb

@@ -1,0 +1,13 @@
+C:\Users\muoi\source\repos\printer\consoleprinter\bin\x64\Releasex64\consoleprinter.exe.config
+C:\Users\muoi\source\repos\printer\consoleprinter\bin\x64\Releasex64\consoleprinter.exe
+C:\Users\muoi\source\repos\printer\consoleprinter\bin\x64\Releasex64\consoleprinter.pdb
+C:\Users\muoi\source\repos\printer\consoleprinter\bin\x64\Releasex64\consoleprinter.exe.CodeAnalysisLog.xml
+C:\Users\muoi\source\repos\printer\consoleprinter\bin\x64\Releasex64\consoleprinter.exe.lastcodeanalysissucceeded
+C:\Users\muoi\source\repos\printer\consoleprinter\bin\x64\Releasex64\printer.dll
+C:\Users\muoi\source\repos\printer\consoleprinter\bin\x64\Releasex64\PdfiumViewer.dll
+C:\Users\muoi\source\repos\printer\consoleprinter\bin\x64\Releasex64\printer.pdb
+C:\Users\muoi\source\repos\printer\consoleprinter\obj\x64\Releasex64\consoleprinter.csprojAssemblyReference.cache
+C:\Users\muoi\source\repos\printer\consoleprinter\obj\x64\Releasex64\consoleprinter.csproj.CoreCompileInputs.cache
+C:\Users\muoi\source\repos\printer\consoleprinter\obj\x64\Releasex64\consoleprinter.csproj.CopyComplete
+C:\Users\muoi\source\repos\printer\consoleprinter\obj\x64\Releasex64\consoleprinter.exe
+C:\Users\muoi\source\repos\printer\consoleprinter\obj\x64\Releasex64\consoleprinter.pdb

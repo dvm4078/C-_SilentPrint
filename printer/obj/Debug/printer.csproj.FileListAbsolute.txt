@@ -1,0 +1,11 @@
+C:\Users\muoi\source\repos\printer\printer\bin\Debug\printer.dll
+C:\Users\muoi\source\repos\printer\printer\bin\Debug\printer.pdb
+C:\Users\muoi\source\repos\printer\printer\bin\Debug\Spire.License.dll
+C:\Users\muoi\source\repos\printer\printer\bin\Debug\Microsoft.mshtml.dll
+C:\Users\muoi\source\repos\printer\printer\bin\Debug\Spire.Pdf.xml
+C:\Users\muoi\source\repos\printer\printer\bin\Debug\Spire.License.xml
+C:\Users\muoi\source\repos\printer\printer\obj\Debug\printer.csprojAssemblyReference.cache
+C:\Users\muoi\source\repos\printer\printer\obj\Debug\printer.csproj.CoreCompileInputs.cache
+C:\Users\muoi\source\repos\printer\printer\obj\Debug\printer.csproj.CopyComplete
+C:\Users\muoi\source\repos\printer\printer\obj\Debug\printer.dll
+C:\Users\muoi\source\repos\printer\printer\obj\Debug\printer.pdb

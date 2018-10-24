@@ -1,0 +1,15 @@
+C:\Users\muoi\source\repos\printer\consoleprinter\bin\Debug\consoleprinter.exe.config
+C:\Users\muoi\source\repos\printer\consoleprinter\bin\Debug\consoleprinter.exe
+C:\Users\muoi\source\repos\printer\consoleprinter\bin\Debug\consoleprinter.pdb
+C:\Users\muoi\source\repos\printer\consoleprinter\bin\Debug\printer.dll
+C:\Users\muoi\source\repos\printer\consoleprinter\bin\Debug\Spire.Pdf.dll
+C:\Users\muoi\source\repos\printer\consoleprinter\bin\Debug\Spire.License.dll
+C:\Users\muoi\source\repos\printer\consoleprinter\bin\Debug\Microsoft.mshtml.dll
+C:\Users\muoi\source\repos\printer\consoleprinter\bin\Debug\printer.pdb
+C:\Users\muoi\source\repos\printer\consoleprinter\bin\Debug\Spire.Pdf.xml
+C:\Users\muoi\source\repos\printer\consoleprinter\bin\Debug\Spire.License.xml
+C:\Users\muoi\source\repos\printer\consoleprinter\obj\Debug\consoleprinter.csprojAssemblyReference.cache
+C:\Users\muoi\source\repos\printer\consoleprinter\obj\Debug\consoleprinter.csproj.CoreCompileInputs.cache
+C:\Users\muoi\source\repos\printer\consoleprinter\obj\Debug\consoleprinter.csproj.CopyComplete
+C:\Users\muoi\source\repos\printer\consoleprinter\obj\Debug\consoleprinter.exe
+C:\Users\muoi\source\repos\printer\consoleprinter\obj\Debug\consoleprinter.pdb
